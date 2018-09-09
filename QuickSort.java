@@ -2,7 +2,7 @@
   * This is a test class of In-Place Quick Sort based on array.
   * This achieves the sorting from smallest to the largest.
   * The average running time is O(nlogn); The worst-case running time is O(n*n)
-  * It's the fastest comparison based sorting algorithm on arrays. It has a smaller constant in the O notation.
+  * It's the fastest comparison based sorting algorithm on arrays. It has a smaller constant hidden in the O notation.
   **/
 import java.util.Arrays;
 import java.io.*;
